@@ -1,9 +1,12 @@
 # Final_Project
 
-A Twitter sentiment analysis on US political party official Twitter accounts.
+A Twitter sentiment analysis of the official Twitter accounts of the Republican Nationall Committee and the Democratic National Committee.
 
 Link to Tableau Dashboard:
 https://public.tableau.com/app/profile/sharrae.allen/viz/TwitterSentimentAnalysisProject/TwitterDash?publish=yes
+
+
+
 
 Code Inspiration Credit
 
