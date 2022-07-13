@@ -1,6 +1,6 @@
 # Final_Project
 
-A Twitter sentiment analysis of the official Twitter accounts of the Republican Nationall Committee and the Democratic National Committee.
+An ongoing Twitter sentiment analysis of the official Twitter accounts of the Republican National Committee and the Democratic National Committee.
 
 Link to Tableau Dashboard:
 https://public.tableau.com/app/profile/sharrae.allen/viz/TwitterSentimentAnalysisProject/TwitterDash?publish=yes
